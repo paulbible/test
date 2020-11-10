@@ -2,8 +2,13 @@
  testing git
 """
 
-def main():
+
+def hello_printer():
     print('hello')
+
+
+def main():
+    hello_printer()
 
 
 main()
